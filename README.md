@@ -10,7 +10,7 @@
 <br />
 
 <p align="center">
-  <img src="https://via.placeholder.com/1200x630/10b981/FFFFFF?text=RescueChat" alt="RescueChat Banner" width="800px" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbaolamdong.vn%2Fthe-gioi%2F202405%2Flu-lut-tai-nhieu-nuoc-gay-thiet-hai-nang-ne-bcc0384%2F&psig=AOvVaw0mxzuP-Rd0TcnQ9HZjDF-V&ust=1749632176147000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjpy_295o0DFQAAAAAdAAAAABAW" alt="RescueChat Banner" width="800px" />
 </p>
 
 **Chatbot AI hỗ trợ sơ cứu khẩn cấp, dự báo thiên tai và nhận diện nạn nhân qua drone**
