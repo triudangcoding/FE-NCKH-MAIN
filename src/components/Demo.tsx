@@ -52,7 +52,7 @@ const Demo = () => {
           </p>
         </div>
 
-        {/* Video Upload Section */}
+        {/* Video Upload Section
         <div className="bg-white dark:bg-gray-800 rounded-3xl shadow-2xl p-8 border border-emerald-100 dark:border-emerald-800">
           <div className="text-center mb-10">
             <div className="w-16 h-16 bg-gradient-to-r from-emerald-500 to-teal-500 rounded-2xl flex items-center justify-center shadow-lg mx-auto mb-4">
@@ -123,7 +123,14 @@ const Demo = () => {
               )}
             </div>
           </div>
-        </div>
+        </div> */}
+
+        <iframe
+          src="http://localhost:8001/detect/stream/video"
+          className="w-full h-[800px] rounded-3xl shadow-2xl border border-emerald-100 dark:border-emerald-800 bg-white dark:bg-gray-800"
+          title="AI Video Detection"
+          allowFullScreen
+        />
       </div>
     </section>
   )

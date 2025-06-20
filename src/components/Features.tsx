@@ -16,7 +16,7 @@ const Features = () => {
       badge: "AI-Powered",
       gradient: "from-emerald-500 to-teal-500",
       emoji: "🚑",
-      stats: "12K+ ca cứu hộ",
+      stats: "đang được phát triển dành cho cộng đồng",
     },
     {
       icon: GlobeAltIcon,

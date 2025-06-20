@@ -37,7 +37,7 @@ const Footer = () => {
     {
       name: "Võ Văn Thành Tài",
       role: "Frontend Developer",
-      avatar: "/placeholder.svg?height=120&width=120",
+      avatar: "/vo_van_thanh_tai.png",
       facebook: "#",
       github: "#",
       specialty: "React & UI/UX Design",
@@ -48,8 +48,8 @@ const Footer = () => {
     {
       name: "Đào Hữu Quang",
       role: "Backend developer",
-      avatar: "/placeholder.svg?height=120&width=120",
-      facebook: "#",
+      avatar: "/quang.jpg",
+      facebook: "#",  
       github: "#",
       specialty: "Node.js & Database",
       experience: "1+ years",

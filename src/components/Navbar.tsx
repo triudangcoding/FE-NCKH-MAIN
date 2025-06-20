@@ -12,7 +12,6 @@ const Navbar = () => {
   const navItems = [
     { id: "home", label: "Trang chủ", href: "#home", emoji: "🏠" },
     { id: "features", label: "Tính năng", href: "#features", emoji: "✨" },
-    { id: "stats", label: "Thống kê", href: "#stats", emoji: "📊" },
     { id: "demo", label: "Demo", href: "#demo", emoji: "🎮" },
     { id: "team", label: "Đội ngũ", href: "#team", emoji: "👥" },
   ]
@@ -70,7 +69,7 @@ const Navbar = () => {
               <div className="relative w-12 h-12 bg-gradient-to-r from-emerald-400 via-teal-500 to-cyan-500 rounded-2xl flex items-center justify-center group-hover:scale-110 transition-all duration-300 shadow-lg group-hover:shadow-xl overflow-hidden">
                 <div className="absolute inset-0 bg-gradient-to-r from-emerald-300 to-cyan-400 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
                 <SparklesIcon className="w-6 h-6 text-white relative z-10" />
-                <div className="absolute inset-0 rounded-2xl bg-gradient-to-r from-emerald-400 to-cyan-500 opacity-0 group-hover:opacity-50 blur-xl transition-opacity duration-300"></div>
+                <div className="`absolute inset-0 rounded-2xl bg-gradient-to-r from-emerald-400 to-cyan-500 opacity-0 group-hover:opacity-50 blur-xl transition-opacity duration-300`"></div>
               </div>
               <div className="flex flex-col">
                 <span
@@ -85,7 +84,6 @@ const Navbar = () => {
             </button>
           </div>
 
-          {/* Desktop Navigation */}
           <div className="hidden md:block">
             <div className="ml-10 flex items-baseline space-x-2">
               {navItems.map((item) => (
@@ -123,7 +121,7 @@ const Navbar = () => {
             <button className="relative bg-gradient-to-r from-emerald-500 via-teal-500 to-cyan-500 text-white px-6 py-3 rounded-2xl text-sm font-semibold hover:shadow-2xl hover:scale-105 transition-all duration-300 overflow-hidden group">
               <span className="relative z-10 flex items-center gap-2">
                 <span>🚀</span>
-                Dùng thử ngay
+                Book a demo
               </span>
               <div className="absolute inset-0 bg-gradient-to-r from-emerald-400 to-cyan-400 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
               <div className="absolute inset-0 rounded-2xl bg-gradient-to-r from-emerald-500 to-cyan-500 opacity-0 group-hover:opacity-50 blur-xl transition-opacity duration-300"></div>

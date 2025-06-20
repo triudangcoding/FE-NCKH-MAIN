@@ -88,7 +88,7 @@
 ### Yêu cầu hệ thống
 
 - Node.js 16.x trở lên
-- npm 7.x trở lên hoặc yarn 1.22.x trở lên
+- npm 7.x trở lên hoặc yarn 1.22.x trở lên  
 
 ### Các bước cài đặt
 
